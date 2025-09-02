@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/250px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",FOX5
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/250px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="ENTERTAINMENT",FOX5
 https://fl1.moveonjoy.com/FOX_EAST/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/250px-FXX_Logo.svg.png" group-title="Movies",FXX
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/250px-FXX_Logo.svg.png" group-title="MOVIES",FXX
 https://fl1.moveonjoy.com/FXX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/250px-FXM_Logo.svg.png" group-title="Movies",FXM
+#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/250px-FXM_Logo.svg.png" group-title="MOVIES",FXM
 https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/250px-CNN_Logo_%282014%29.svg.png" group-title="Noticies",CNN
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/250px-FX_International_logo.svg.png" group-title="MOVIES",FX
+https://fl1.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/250px-CNN_Logo_%282014%29.svg.png" group-title="NEWS",CNN
 https://fl3.moveonjoy.com/CNN/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png" group-title="Noticies",ABC
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png" group-title="NEWS",ABC
 https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png" group-title="Noticies",FOX NEWS
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png" group-title="NEWS",FOX NEWS
 https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CBS NEWS" tvg-name="CBS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/250px-CBS_News_logo_%282020%29.svg.png" group-title="Noticies",CBS NEWS
+#EXTINF:-1 tvg-id="CBS NEWS" tvg-name="CBS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/250px-CBS_News_logo_%282020%29.svg.png" group-title="NEWS",CBS NEWS
 https://fl3.moveonjoy.com/CBS_News/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/635px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Noticies",NBC
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/635px-NBC_logo_2022_%28vertical%29.svg.png" group-title="NEWS",NBC
 https://fl1.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/250px-CNBC_2023.svg.png" group-title="Noticies",CNBC
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/250px-CNBC_2023.svg.png" group-title="NEWS",CNBC
 https://fl1.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/250px-FX_International_logo.svg.png" group-title="Movies",FX
-https://fl1.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPNU
 https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
