@@ -8,6 +8,21 @@ https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/635px-NBC_logo_2022_%28vertical%29.svg.png" group-title="ENTERTAINMENT",NBC
 https://fl1.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/60px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT",E!
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png" group-title="ENTERTAINMENT",SONY CHANNEL
+https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/250px-TLC_Logo.svg.png" group-title="ENTERTAINMENT",TLC
+https://fl3.moveonjoy.com/TLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="ENTERTAINMENT",INVESTIGATION DISCOVERY
+https://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/250px-TruTV_logo_2014.png" group-title="ENTERTAINMENT",TRUTV
+https://fl1.moveonjoy.com/TRU_TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/250px-FXX_Logo.svg.png" group-title="MOVIES",FXX
 https://fl1.moveonjoy.com/FXX/tracks-v1a1/mono.m3u8
 
@@ -16,6 +31,27 @@ https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/250px-FX_International_logo.svg.png" group-title="MOVIES",FX
 https://fl1.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX EAST" tvg-name="CINEMAX EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/250px-Cinemax_2016.svg.png" group-title="MOVIES",CINEMAX EAST
+https://fl3.moveonjoy.com/CINEMAX_EAST/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="MOVIES",HBO
+https://fl3.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="MOVIES",HBO2
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO_COMEDY" tvg-name="HBO_COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HBO_Comedy_Half-Hour.jpg/250px-HBO_Comedy_Half-Hour.jpg" group-title="MOVIES",HBO COMEDY
+https://fl3.moveonjoy.com/HBO_COMEDY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png" group-title="MOVIES",TNT
+https://fl1.moveonjoy.com/TNT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="STARZ" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="MOVIES",STARZ
+https://fl3.moveonjoy.com/STARZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/250px-AMC_logo_2019.svg.png" group-title="MOVIES",AMC
+https://fl3.moveonjoy.com/AMC_NETWORK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/250px-CNN_Logo_%282014%29.svg.png" group-title="NEWS",CNN
 https://fl3.moveonjoy.com/CNN/tracks-v1a1/mono.m3u8
@@ -29,6 +65,15 @@ https://fl3.moveonjoy.com/CBS_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/250px-CNBC_2023.svg.png" group-title="NEWS",CNBC
 https://fl1.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/250px-BBC_Logo_2021.svg.png" group-title="NEWS",BBC
+https://fl3.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/250px-New_Bloomberg_Logo.svg.png" group-title="NEWS",BLOOMBERG
+https://fl3.moveonjoy.com/BLOOMBERG/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NEWS NATION" tvg-name="NEWS NATION" tvg-logo="https://www.cablefax.com/wp-content/uploads/2021/01/newsnation-tv.png" group-title="NEWS",NEWS NATION
+https://fl1.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPNU
 https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
 
@@ -40,9 +85,6 @@ https://fl1.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/250px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS",FS1
 https://fl1.moveonjoy.com/FOX_Sports_1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CBS_SPORTS" tvg-name="CBS_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/250px-CBS_Sports_Network_2021.svg.png" group-title="SPORTS",CBS SPORTS
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CBS_SPORTS" tvg-name="CBS_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/250px-CBS_Sports_Network_2021.svg.png" group-title="SPORTS",CBS SPORTS
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
