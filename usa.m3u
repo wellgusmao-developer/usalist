@@ -74,8 +74,8 @@ https://fl3.moveonjoy.com/BLOOMBERG/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NEWS NATION" tvg-name="NEWS NATION" tvg-logo="https://www.cablefax.com/wp-content/uploads/2021/01/newsnation-tv.png" group-title="NEWS",NEWS NATION
 https://fl1.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPN
-http://cdn50.vip/gsr11262/OH4563/294173.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPN HD
+https://v13.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=2BYT8WrSTbxJd08FRHKRmQ&expires=1756974917&user_id=eU5qRUYzRVFmYWxLVUs0OTFVcUhyb0tRZ0JQd3NVOGQwNkl0NlF0MA==
 
 #EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPN SD
 https://v12.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=wzPgzkFhnlQi4bgxULBa7g&expires=1756974660&user_id=eU5qRUYzRVFmYWxLVUs0OTFVcUhyb0tRZ0JQd3NVOGQwNkl0NlF0MA==
