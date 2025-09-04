@@ -8,6 +8,9 @@ https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/635px-NBC_logo_2022_%28vertical%29.svg.png" group-title="ENTERTAINMENT",NBC
 https://fl1.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/250px-CNBC_2023.svg.png" group-title="ENTERTAINMENT",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/60px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT",E!
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
 
@@ -22,6 +25,12 @@ https://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/250px-TruTV_logo_2014.png" group-title="ENTERTAINMENT",TRUTV
 https://fl1.moveonjoy.com/TRU_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/250px-HGTV_US_Logo_2015.svg.png" group-title="ENTERTAINMENT",HGTV
+https://fl3.moveonjoy.com/HGTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="REELZ" tvg-name="REELZ" tvg-logo="https://s13686.pcdn.co/wp-content/themes/reelz2/assets/images/reelz_logo-fd3325243b.png" group-title="ENTERTAINMENT",REELZ
+https://fl3.moveonjoy.com/REELZ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/250px-FXX_Logo.svg.png" group-title="MOVIES",FXX
 https://fl1.moveonjoy.com/FXX/tracks-v1a1/mono.m3u8
@@ -52,6 +61,9 @@ https://fl3.moveonjoy.com/STARZ/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/250px-AMC_logo_2019.svg.png" group-title="MOVIES",AMC
 https://fl3.moveonjoy.com/AMC_NETWORK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/330px-Showtime.svg.png" group-title="MOVIES",SHOWTIME
+https://fl3.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/250px-CNN_Logo_%282014%29.svg.png" group-title="NEWS",CNN
 https://fl3.moveonjoy.com/CNN/tracks-v1a1/mono.m3u8
@@ -92,8 +104,52 @@ https://fl1.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/250px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS",FS1
 https://fl1.moveonjoy.com/FOX_Sports_1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="FS2" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/220px-FS2_logo_2015.svg.png" group-title="SPORTS",FS2
+https://tvpass.org/live/FoxSports2/hd
+
 #EXTINF:-1 tvg-id="CBS_SPORTS" tvg-name="CBS_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/250px-CBS_Sports_Network_2021.svg.png" group-title="SPORTS",CBS SPORTS
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png" group-title="SPORTS",TENNIS CHANNEL
 https://fl3.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA 1" tvg-name="NBA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 1
+https://fl3.moveonjoy.com/NBA_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA 2" tvg-name="NBA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 2
+https://fl1.moveonjoy.com/NBA_2/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA 3" tvg-name="NBA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 3
+https://fl3.moveonjoy.com/NBA_3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA 4" tvg-name="NBA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 4
+https://fl1.moveonjoy.com/NBA_4/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA 5" tvg-name="NBA 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 5
+https://fl3.moveonjoy.com/NBA_5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA 6" tvg-name="NBA 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 6
+https://fl1.moveonjoy.com/NBA_6/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA 7" tvg-name="NBA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 7
+https://fl3.moveonjoy.com/NBA_7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA 9" tvg-name="NBA 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 9
+https://fl3.moveonjoy.com/NBA_9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 10
+https://fl1.moveonjoy.com/NBA_10/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA 11" tvg-name="NBA 11" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 11
+https://fl3.moveonjoy.com/NBA_11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA 12" tvg-name="NBA 12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 12
+https://fl1.moveonjoy.com/NBA_12/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA 13" tvg-name="NBA 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/120px-National_Basketball_Association_logo.svg.png",NBA 13
+https://fl3.moveonjoy.com/NBA_13/tracks-v1a1/mono.m3u8
+
+
