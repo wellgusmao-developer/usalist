@@ -5,6 +5,9 @@ https://fl1.moveonjoy.com/FOX_EAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png" group-title="ENTERTAINMENT",ABC
 https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png" group-title="ENTERTAINMENT",CBS
+https://fl5.moveonjoy.com/CBSEAST/index.m3u8
+
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/635px-NBC_logo_2022_%28vertical%29.svg.png" group-title="ENTERTAINMENT",NBC
 https://fl1.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
 
